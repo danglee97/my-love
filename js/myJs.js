@@ -37,7 +37,7 @@ $(document).ready(function () {
       text: textConfig.text2,
       imageUrl: "img/couple.jpg",
       imageWidth: 300,
-      imageHeight: 300,
+      imageHeight: 400,
       background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Custom image",
     }).then(function () {
